@@ -117,3 +117,14 @@ Project_FanControl_AUTOSAR
 ---
 
 ## 6. Các hình ảnh mô phỏng của dự án
+**6.1: Breadboard mô phỏng của dự án đã được kết nối:**
+
+<img width="1569" height="1752" alt="Demo" src="https://github.com/user-attachments/assets/5a0b2a6b-4de8-458e-a9ed-054ce58b5c2f" />
+
+**6.2: Video demo của dự án:**
+
+
+
+https://github.com/user-attachments/assets/5270574c-b34e-4799-9bb2-04cd2e580934
+
+
